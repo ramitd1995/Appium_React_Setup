@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85896" started-at="2020-04-04T20:03:45 IST" finished-at="2020-04-04T20:05:11 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="85896" started-at="2020-04-04T20:03:45 IST" finished-at="2020-04-04T20:05:11 IST">
+      <class name="Appium_Setup.Appium_React_Setup.FE_Login">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Appium_Setup.Appium_React_Setup.FE_Login@7a1ebcd8]" name="setup" is-config="true" duration-ms="39731" started-at="2020-04-04T20:03:45 IST" finished-at="2020-04-04T20:04:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="fareye_react_app()[pri:0, instance:Appium_Setup.Appium_React_Setup.FE_Login@7a1ebcd8]" name="fareye_react_app" duration-ms="32512" started-at="2020-04-04T20:04:25 IST" finished-at="2020-04-04T20:04:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fareye_react_app -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Appium_Setup.Appium_React_Setup.FE_Login@7a1ebcd8]" name="teardown" is-config="true" duration-ms="13620" started-at="2020-04-04T20:04:57 IST" finished-at="2020-04-04T20:05:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Appium_Setup.Appium_React_Setup.FE_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
